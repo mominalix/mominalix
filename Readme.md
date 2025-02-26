@@ -1,4 +1,4 @@
-I'm a Research and Development Engineer with a versatile skillset in High Performance Computing, AI, and Robotics. With over 4 years of experience, I've led cross-functional teams and delivered impactful solutions. My expertise includes Python, C++, and a wide range of High Performance Computing libraries and APIs including CUDA, OpenCL, OpenMP, MPI, OpenGL. I've designed end-to-end data pipelines, optimized real-time embeddings, and developed AI-driven solutions. I'm passionate about technology, innovation, and contributing to cutting-edge projects.
+Building AI products.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominalix)
 ---
