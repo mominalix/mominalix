@@ -1,7 +1,8 @@
 Building AI products.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mominalix)
-[![](https://orcid.org/assets/vectors/orcid.logo.svg)](https://orcid.org/0009-0005-4978-543X)
+[![](<img src="https://www.svgrepo.com/show/373541/cuda.svg" alt="cuda" width="40" height="40"/>)](https://orcid.org/0009-0005-4978-543X)
+
 ---
 
 
